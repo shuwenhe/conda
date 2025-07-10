@@ -1,1 +1,10 @@
 https://www.anaconda.com/docs/getting-started/miniconda/install#macos-linux-installation
+Option 2: Install Anaconda (if you prefer a larger, full installation):
+# Download Anaconda installer (for Linux 64-bit)
+wget https://repo.anaconda.com/archive/Anaconda3-2023.03-1-Linux-x86_64.sh
+
+# Run the installer
+bash Anaconda3-2023.03-1-Linux-x86_64.sh
+
+# Follow the prompts to complete the installation.
+
